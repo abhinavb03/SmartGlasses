@@ -31,5 +31,13 @@ This is the official GitHub repository for my Maturarbeit on building Smart Glas
 
 -For the glass part of the glasses, you are free too use what you wish, I decided to use a thin plexiglass film and glue it to the outside of the frame. I then reprinted the frame, changing the thickness of the frame and glueing it ontop of the glass, sandwiching it inbetweek the two frame pieces. 
 
+For the Android Studio, make sure to define the MAC address of the ESP32 in all-caps when copying it over from the Serial Monitor of the Arduino IDE. 
+
+Build the APK and deploy it onto your android Phone. 
+
+When you turn on the switch of the ESP32, it will say Ready, Mode Bluetooth. Go to your phone bluetooth settings and connect the ESP32 to your phone.
+
+Then head to your app and click start. Then press the button, and you will see that the screen changes. The Glasses work. For the features of the Device, check the Paper.
+
 Now you are done!
 
