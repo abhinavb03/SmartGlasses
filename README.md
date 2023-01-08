@@ -33,11 +33,13 @@ This is the official GitHub repository for my Maturarbeit on building Smart Glas
 
 For the Android Studio, make sure to define the MAC address of the ESP32 in all-caps when copying it over from the Serial Monitor of the Arduino IDE. 
 
-Build the APK and deploy it onto your android Phone. 
+Build the APK and deploy it onto your Android phone. 
 
 When you turn on the switch of the ESP32, it will say Ready, Mode Bluetooth. Go to your phone bluetooth settings and connect the ESP32 to your phone.
 
 Then head to your app and click start. Then press the button, and you will see that the screen changes. The Glasses work. For the features of the Device, check the Paper.
+
+Check the Arduino Code aswell to see the parameters of the powersave and soforth. Adjust to your liking. 
 
 Now you are done!
 
