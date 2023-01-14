@@ -43,3 +43,4 @@ Check the Arduino Code aswell to see the parameters of the powersave and soforth
 
 Now you are done!
 
+This Matura Project is based off a tutorial from another repository: https://github.com/heytechv/YouTube_SmartglassesV2 
